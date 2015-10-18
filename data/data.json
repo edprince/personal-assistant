@@ -1,0 +1,31 @@
+{"data":[
+  {"planets":[
+    {"earth":[
+      {"type":"planet"},
+      {"size":1000},
+      {"population":7000000000},
+      {"location": 123456},
+      {"information": "Formed around 4.6 billions years ago. The planet is habitable, and owned by the UEE."}
+    ]},
+    {"sol":[
+      {"type":"sun"},
+      {"size":1000},
+      {"population":7000000000},
+      {"location": 123456},
+      {"information": "Formed around 4.6 billions years ago. The planet is habitable, and owned by the UEE."}
+    ]},
+    {"arccorp":[
+      {"type":"planet"},
+      {"size":42000},
+      {"population":700000000},
+      {"location": 123141},
+      {"information": "Formed around 9.5 billions years ago. The planet is habitable, and owned by the UEE."}
+    ]}
+  ]},
+  {"species":[
+    {"human":[
+      {"population":12000000000},
+      {"information": "The human race are on point"}
+    ]}
+  ]}
+]}
